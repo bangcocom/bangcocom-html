@@ -24,7 +24,7 @@ var xxx=null;
 if(x=="1"){xxx="3-forms-of-insurance-all-american.html"}
 if(x=="2"){xxx="what-makes-insurance-to-be-paradigm-for.html"}
 if(x=="3"){xxx="the-reasons-which-trigger-liability.html"}
-if(x=="4"){xxx="social-security-in-21st-century.html"}a_to_ve[i].href="http://shortlinkmu.blogspot.co.id/2018/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="social-security-in-21st-century.html"}a_to_ve[i].href="http://www.shortlinkmu.site/2018/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
